@@ -57,6 +57,7 @@ To work with this prototype, the following are required:
   - Breadboard and jumper wires
   - Power source for Arduino and LEDs
   - Solar panel
+
  
 ---
 
