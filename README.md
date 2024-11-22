@@ -76,6 +76,6 @@ File > Open and navigating to the file location.
 - **Step 3: Connect the Arduino**:
   - Use a USB cable to connect the Arduino UNO to your computer.
   - Ensure the correct board and port are selected in the Arduino IDE:
-Go to Tools > Board > Arduino UNO.
-Navigate to Tools > Port and select the port corresponding to the connected Arduino.
+      - Go to Tools > Board > Arduino UNO.
+      - Navigate to Tools > Port and select the port corresponding to the connected Arduino.
 
