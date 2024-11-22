@@ -66,4 +66,12 @@ Follow these steps to set up the prototype:
   - Go to the Arduino Official Website
   - Download the Arduino IDE suitable for your operating system.
   - Install the Arduino IDE by following the on-screen instructions.
+ 
+- **Step 2: Open the Code**:
+  - Save the provided Arduino code file (solar_tracking.ino) to your computer.
+  - Launch the Arduino IDE.
+  - Open the saved solar_tracking.ino file in the Arduino IDE by selecting:
+File > Open and navigating to the file location.
+ 
+
 
