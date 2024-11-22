@@ -62,7 +62,7 @@ To work with this prototype, the following are required:
 ---
 
 
-#### **Installation**  
+#### **Installation Guide**  
 Follow these steps to set up the prototype:
 
 
