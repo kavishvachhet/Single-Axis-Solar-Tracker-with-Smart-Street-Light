@@ -61,24 +61,7 @@ To work with this prototype, the following are required:
 #### **Installation**  
 Follow these steps to set up the prototype:
 
-1. Clone the Repository:  
-   ```bash
-   git clone https://github.com/kavishvachhet/Single-Axis-Solar-Tracker-with-Smart-Street-Light.git
-   cd Single-Axis-Solar-Tracker-with-Smart-Street-Light
-
-**How to Run** 
-
-Upload the Code:
-
-Open Arduino IDE and load the solar_tracker.ino and street_light_control.ino files from your project directory.
-Click the Upload button to upload the code to your Arduino board.
-Hardware Setup:
-
-LDRs: Connect LDR_1 to pin A0 and LDR_2 to pin A1 on the Arduino.
-Servo Motor: Connect the signal wire of the servo motor to pin 4 on the Arduino.
-Ensure that all components are connected to power and ground as required.
-Test the System:
-
-After uploading the code, the solar tracker will start adjusting the solar panel based on the light levels detected by the LDRs.
-Test the streetlights by varying the light levels (e.g., using a flashlight or adjusting ambient light).
-The streetlights should automatically turn on/off based on the available solar energy.
+**Step 1: Download Arduino IDE**
+  **1.** Go to the Arduino Official Website.
+  **2.** Download the Arduino IDE suitable for your operating system.
+  **3.** Install the Arduino IDE by following the on-screen instructions.
