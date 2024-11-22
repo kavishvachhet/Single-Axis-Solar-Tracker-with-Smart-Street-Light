@@ -1,7 +1,7 @@
 # ENR107 Digital Electronics and Microprocessors  
 ## 2024-2025 (Monsoon Semester)  
 
-**Single-Axis-Solar-Tracker-with-Smart-Street-Light README**  
+**Single Axis Solar Tracker with Smart Street Light README**  
 **Submitted to faculty:** Prof. Maryam Kaveshgar  
 **Date of submission:** 22/11/2024 
 **Group Number:** 5  
