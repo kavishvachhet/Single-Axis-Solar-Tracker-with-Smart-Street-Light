@@ -2,8 +2,8 @@
 ## 2024-2025 (Monsoon Semester)  
 
 **Single-Axis-Solar-Tracker-with-Smart-Street-Light README**  
-**Submitted to faculty:** Maryam Kaveshgar  
-**Date of submission:** 22-11-2024 
+**Submitted to faculty:** Prof. Maryam Kaveshgar  
+**Date of submission:** 22/11/2024 
 **Group Number:** 5  
 
 | Roll No.   | Name of the Student   | Contribution |
