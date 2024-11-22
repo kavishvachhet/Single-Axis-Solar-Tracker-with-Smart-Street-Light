@@ -62,14 +62,8 @@ To work with this prototype, the following are required:
 Follow these steps to set up the prototype:
 
 
-- **Hardware**:
-  - Arduino UNO
-  - 2 LDRs (Light Dependent Resistors)
-  - Servo motor (for solar tracking)
-  - LEDs and resistors (for smart lighting)
-  - Breadboard and jumper wires
+- **Step 1: Download Arduino IDE**:
+  - Go to the Arduino Official Website
+  - Download the Arduino IDE suitable for your operating system.
+  - Install the Arduino IDE by following the on-screen instructions.
 
-**Step 1: Download Arduino IDE**:
-  **1.** Go to the Arduino Official Website.
-  **2.** Download the Arduino IDE suitable for your operating system.
-  **3.** Install the Arduino IDE by following the on-screen instructions.
