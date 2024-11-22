@@ -99,6 +99,8 @@ Follow these steps to set up the prototype:
   - **Ensure Power Supply**: The Arduino must remain connected to a power source (USB or external power supply) for the system to operate.
   - **Code Execution**: If the Arduino is not connected to a power source, it will run the last uploaded code when powered up again.
   - If you need to update the code, repeat Steps 2–4 to overwrite the previous program on the Arduino.
+   
+---
 
 ### **Accessing the README**
 You can find the README file and other details in the project GitHub repository:
