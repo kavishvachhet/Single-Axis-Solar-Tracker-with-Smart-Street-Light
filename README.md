@@ -8,11 +8,11 @@
 
 | Roll No.   | Name of the Student   | Contribution |
 |------------|-----------------------|--------------|
-| AU2340190  | Kavish K Vachheta      | [Your Contribution] |
-| AU2340052 | Ramkrishna Mangukiya       | [Contribution] |
-| AU2340106 | Shrey Chaklasiya                | [Contribution] |
-| AU2340098 | Avadh Nandasana               | [Contribution] |
-| AU2340004 | Hritik Shah               | [Contribution] |
+| AU2340190  | Kavish K Vachheta      | Arduino Code, Report, Components requirement |
+| AU2340052 | Ramkrishna Mangukiya       | Circuit Connection, error solving |
+| AU2340106 | Shrey Chaklasiya                | Arduino Code, Circuit Connection, Error solving |
+| AU2340098 | Avadh Nandasana               | Circuit connection, components requirement |
+| AU2340004 | Hritik Shah               | Circuit connection, Report |
 
 
 
