@@ -82,4 +82,10 @@ Follow these steps to set up the prototype:
 - **Step 4: Upload the Code**:
   - Click the Upload button (⮉) in the Arduino IDE toolbar to transfer the code to the Arduino.
   - Wait for the upload to complete. The message "Done uploading" will appear in the IDE console.
+ 
+- **Important Notes**:
+  - **Ensure Power Supply**: The Arduino must remain connected to a power source (USB or external power supply) for the system to operate.
+  - **Code Execution**: If the Arduino is not connected to a power source, it will run the last uploaded code when powered up again.
+  - If you need to update the code, repeat Steps 2–4 to overwrite the previous program on the Arduino.
+
 
