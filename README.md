@@ -103,7 +103,7 @@ Follow these steps to set up the prototype:
 ---
 
 ### **Accessing the README**
-You can find the README file and other details in the project GitHub repository:
-[GitHub Repository Link](https://github.com/kavishvachhet/Single-Axis-Solar-Tracker-with-Smart-Street-Light)
+You can find the README file and other details in the project GitHub repository :
+ [GitHub Repository Link](https://github.com/kavishvachhet/Single-Axis-Solar-Tracker-with-Smart-Street-Light)
 
 
