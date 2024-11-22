@@ -23,7 +23,7 @@
 
 ### **Introduction**
 
-The **Single-Axis Solar Tracker with Smart Street Light** is a smart outdoor lighting solution that integrates solar energy optimization with adaptive street illumination. This prototype combines a solar tracker mechanism with intelligent lighting systems to maximize the utilization of solar energy.
+A **Smart Street Light-based Single-Axis Solar Tracker** combines a solar energy eco-friendly outdoor lighting solution with maximized efficiency in the utilization of solar energy and adaptive street illumination. The prototype is intended to increase efficiency in this aspect, as the mechanism of tracking the sun would be paired with an intelligent lighting system.
 
 #### **Main Features**:
 
