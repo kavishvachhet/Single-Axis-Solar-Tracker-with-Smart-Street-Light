@@ -61,7 +61,7 @@ To work with this prototype, the following are required:
 #### **Installation**  
 Follow these steps to set up the prototype:
 
-**Step 1: Download Arduino IDE**
+**Step 1: Download Arduino IDE**:
   **1.** Go to the Arduino Official Website.
   **2.** Download the Arduino IDE suitable for your operating system.
   **3.** Install the Arduino IDE by following the on-screen instructions.
