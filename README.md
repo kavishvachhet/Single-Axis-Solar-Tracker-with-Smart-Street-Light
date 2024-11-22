@@ -28,10 +28,10 @@ A **Smart Street Light-based Single-Axis Solar Tracker** combines a solar energy
 #### **Main Features**:
 
 - **Solar Tracking**:  
-  The system uses a single-axis mechanism to adjust the solar panel's position, ensuring it remains aligned with the sun throughout the day to capture maximum sunlight and optimize energy generation.
+  It adjusts the position of the photovoltaic panel relative to the sun and aligns it properly with the movement of the sun using a single-axis mechanism.
 
 - **Smart Lighting**:  
-  The streetlights powered by the harvested solar energy automatically activate at night. The system intelligently manages the lighting based on available energy:
+  LED lights that capture the sun's energy automatically turn on at night. Based on the available energy, the lighting system intelligently works with intelligent regulation:
   - **All lights turn on** when there is sufficient energy.
   - **Alternate lights activate** during low-energy conditions to conserve power.
 
@@ -39,7 +39,7 @@ A **Smart Street Light-based Single-Axis Solar Tracker** combines a solar energy
   The **Arduino UNO** controls the entire system, balancing energy usage between solar tracking and smart lighting efficiently.
 
 #### **Problem Solved**:
-This prototype addresses the need for sustainable and energy-efficient outdoor lighting, especially in areas with limited or costly power supply. By combining solar energy optimization with adaptive lighting, it reduces energy waste and provides a reliable, eco-friendly solution for outdoor illumination under diverse environmental conditions.
+This prototype responds to a demand for outdoor lighting that is both sustainable and energy-efficient, especially in regions with either restricted power sources or expensive power sources. Combining the solar power optimisation with adaptive lighting technologies, it helps avoid energy waste and provides a viable, eco-friendly source of outdoor illumination under changing environmental conditions.
 
 ---
 
