@@ -100,4 +100,8 @@ Follow these steps to set up the prototype:
   - **Code Execution**: If the Arduino is not connected to a power source, it will run the last uploaded code when powered up again.
   - If you need to update the code, repeat Steps 2–4 to overwrite the previous program on the Arduino.
 
+### **Accessing the README**
+You can find the README file and other details in the project GitHub repository:
+[GitHub Repository Link](https://github.com/kavishvachhet/Single-Axis-Solar-Tracker-with-Smart-Street-Light)
+
 
