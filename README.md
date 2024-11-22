@@ -71,11 +71,15 @@ Follow these steps to set up the prototype:
   - Save the provided Arduino code file (solar_tracking.ino) to your computer.
   - Launch the Arduino IDE.
   - Open the saved solar_tracking.ino file in the Arduino IDE by selecting:
-File > Open and navigating to the file location.
+      - File > Open and navigating to the file location.
 
 - **Step 3: Connect the Arduino**:
   - Use a USB cable to connect the Arduino UNO to your computer.
   - Ensure the correct board and port are selected in the Arduino IDE:
       - Go to Tools > Board > Arduino UNO.
       - Navigate to Tools > Port and select the port corresponding to the connected Arduino.
+   
+- **Step 4: Upload the Code**:
+  - Click the Upload button (⮉) in the Arduino IDE toolbar to transfer the code to the Arduino.
+  - Wait for the upload to complete. The message "Done uploading" will appear in the IDE console.
 
