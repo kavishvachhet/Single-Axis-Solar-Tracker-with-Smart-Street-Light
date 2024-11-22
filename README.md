@@ -8,9 +8,14 @@
 
 | Roll No.   | Name of the Student   | Contribution |
 |------------|-----------------------|--------------|
-| AU2340190  | KAVISH K VACHHETA      | [Your Contribution] |
-| [Roll No.] | [Name]                 | [Contribution] |
-| [Roll No.] | [Name]                 | [Contribution] |
+| AU2340190  | Kavish K Vachheta      | [Your Contribution] |
+| AU2340052 | Ramkrishna Mangukiya       | [Contribution] |
+| AU2340106 | Shrey Chaklasiya                | [Contribution] |
+| AU2340098 | Avadh Nandasana               | [Contribution] |
+| AU2340004 | Hritik Shah               | [Contribution] |
+
+
+
 
 ---
 
