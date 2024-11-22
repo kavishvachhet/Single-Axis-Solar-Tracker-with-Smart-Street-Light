@@ -63,7 +63,7 @@ Follow these steps to set up the prototype:
 
 
 - **Step 1: Download Arduino IDE**:
-  - Go to the Arduino Official Website
+  - Go to the [Arduino Official Website](https://www.arduino.cc/en/software)
   - Download the Arduino IDE suitable for your operating system.
   - Install the Arduino IDE by following the on-screen instructions.
  
